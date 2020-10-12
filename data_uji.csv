@@ -1,0 +1,278 @@
+fold num,imgid,feature1,feature2,feature3
+"Series([], Name: fold num, dtype: int64)",grapeleaves_61.jpg,34687.0,0,894.0630509853363
+"0   NaN
+Name: fold num, dtype: float64",grapeleaves_61.jpg,34687.0,0,894.0630509853363
+"1   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"2   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"3   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"4   NaN
+Name: fold num, dtype: float64",grapeleaves_61.jpg,34687.0,0,894.0630509853363
+"5   NaN
+Name: fold num, dtype: float64",grapeleaves_62.jpg,238.0,0,1830.5525081157684
+"6   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"7   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"8   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"9   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"10   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"11   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"12   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"13   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"14   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"15   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"16   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"17   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,37496,259.0,1157.0579986572266
+"18   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,30856,2183.5,893.2173789739609
+"19   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,30856,1929.0,893.2173789739609
+"20   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"21   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"22   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"23   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"24   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"25   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"26   NaN
+Name: fold num, dtype: float64",grapeleaves_3.jpg,29413.0,21.0,887.7199051380157
+"27   NaN
+Name: fold num, dtype: float64",grapeleaves_4.jpg,26201.0,484.0,875.7787802219391
+"28   NaN
+Name: fold num, dtype: float64",grapeleaves_5.jpg,129.5,5.0,1177.1585038900375
+"29   NaN
+Name: fold num, dtype: float64",grapeleaves_5.jpg,129.5,5.0,1177.1585038900375
+"30   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,27201.5,628.5,895.7615352869034
+"31   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,27201.5,628.5,895.7615352869034
+"32   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,27201.5,628.5,895.7615352869034
+"33   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,27201.5,628.5,895.7615352869034
+"34   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,27201.5,628.5,895.7615352869034
+"35   NaN
+Name: fold num, dtype: float64",grapeleaves_7.jpg,249.0,36.5,1794.493633031845
+"36   NaN
+Name: fold num, dtype: float64",grapeleaves_8.jpg,34668.0,199.0,1150.3717069625854
+"37   NaN
+Name: fold num, dtype: float64",grapeleaves_9.jpg,15370,651.5,566.8183224201202
+"38   NaN
+Name: fold num, dtype: float64",grapeleaves_10.jpg,45353,316.5,1807.5403155088425
+"39   NaN
+Name: fold num, dtype: float64",grapeleaves_21.jpg,34453.0,277.0,1008.3717069625854
+"40   NaN
+Name: fold num, dtype: float64",grapeleaves_22.jpg,27132,466.5,1052.5554724931717
+"41   NaN
+Name: fold num, dtype: float64",grapeleaves_23.jpg,24150,435.0,1190.8641284704208
+"42   NaN
+Name: fold num, dtype: float64",grapeleaves_24.jpg,46384,1004.0,1735.3565499782562
+"43   NaN
+Name: fold num, dtype: float64",grapeleaves_25.jpg,38850,524.5,1164.1290663480759
+"44   NaN
+Name: fold num, dtype: float64",grapeleaves_26.jpg,28044,232.5,801.5117543935776
+"45   NaN
+Name: fold num, dtype: float64",grapeleaves_27.jpg,44232,1662.0,1445.7169407606125
+"46   NaN
+Name: fold num, dtype: float64",grapeleaves_28.jpg,68.5,0.0,546.1147857904434
+"47   NaN
+Name: fold num, dtype: float64",grapeleaves_29.jpg,215.5,100.0,1713.4570552110672
+"48   NaN
+Name: fold num, dtype: float64",grapeleaves_30.jpg,117.0,0,892.4061968326569
+"49   NaN
+Name: fold num, dtype: float64",grapeleaves_30.jpg,117.0,0,892.4061968326569
+"50   NaN
+Name: fold num, dtype: float64",grapeleaves_3.jpg,29413.0,21.0,887.7199051380157
+"51   NaN
+Name: fold num, dtype: float64",grapeleaves_24.jpg,46384,1004.0,1735.3565499782562
+"52   NaN
+Name: fold num, dtype: float64",grapeleaves_16.jpg,168.0,89.5,1198.9402484893799
+"53   NaN
+Name: fold num, dtype: float64",grapeleaves_8.jpg,34668.0,199.0,1150.3717069625854
+"54   NaN
+Name: fold num, dtype: float64",grapeleaves_41.jpg,60452,778.0,1586.9890189170837
+"55   NaN
+Name: fold num, dtype: float64",grapeleaves_42.jpg,42036,2016.0,1885.1210496425629
+"56   NaN
+Name: fold num, dtype: float64",grapeleaves_43.jpg,35435.5,0,998.2468165159225
+"57   NaN
+Name: fold num, dtype: float64",grapeleaves_44.jpg,274.0,84.0,2079.003299474716
+"58   NaN
+Name: fold num, dtype: float64",grapeleaves_45.jpg,57591,752.0,2065.204309940338
+"59   NaN
+Name: fold num, dtype: float64",grapeleaves_46.jpg,46008,403.0,1780.0499819517136
+"60   NaN
+Name: fold num, dtype: float64",grapeleaves_47.jpg,292.5,3.5,1873.3636902570724
+"61   NaN
+Name: fold num, dtype: float64",grapeleaves_48.jpg,36601.5,72.0,901.903670668602
+"62   NaN
+Name: fold num, dtype: float64",grapeleaves_49.jpg,50151,1498.0,1941.7484662532806
+"63   NaN
+Name: fold num, dtype: float64",grapeleaves_50.jpg,41184,606.0,1958.3687425851822
+"64   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"65   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"66   NaN
+Name: fold num, dtype: float64",grapeleaves_3.jpg,29413.0,21.0,887.7199051380157
+"67   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"68   NaN
+Name: fold num, dtype: float64",grapeleaves_3.jpg,29413.0,21.0,887.7199051380157
+"69   NaN
+Name: fold num, dtype: float64",grapeleaves_4.jpg,26201.0,484.0,875.7787802219391
+"70   NaN
+Name: fold num, dtype: float64",grapeleaves_5.jpg,129.5,5.0,1177.1585038900375
+"71   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,27201.5,628.5,895.7615352869034
+"72   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,27201.5,628.5,895.7615352869034
+"73   NaN
+Name: fold num, dtype: float64",grapeleaves_7.jpg,249.0,36.5,1794.493633031845
+"74   NaN
+Name: fold num, dtype: float64",grapeleaves_8.jpg,34668.0,199.0,1150.3717069625854
+"75   NaN
+Name: fold num, dtype: float64",grapeleaves_9.jpg,15370,651.5,566.8183224201202
+"76   NaN
+Name: fold num, dtype: float64",grapeleaves_10.jpg,45353,316.5,1807.5403155088425
+"77   NaN
+Name: fold num, dtype: float64",grapeleaves_11.jpg,44730,1391.5,1598.060086607933
+"78   NaN
+Name: fold num, dtype: float64",grapeleaves_21.jpg,34453.0,277.0,1008.3717069625854
+"79   NaN
+Name: fold num, dtype: float64",grapeleaves_22.jpg,27132,466.5,1052.5554724931717
+"80   NaN
+Name: fold num, dtype: float64",grapeleaves_23.jpg,24150,435.0,1190.8641284704208
+"81   NaN
+Name: fold num, dtype: float64",grapeleaves_24.jpg,46384,1004.0,1735.3565499782562
+"82   NaN
+Name: fold num, dtype: float64",grapeleaves_25.jpg,38850,524.5,1164.1290663480759
+"83   NaN
+Name: fold num, dtype: float64",grapeleaves_26.jpg,28044,232.5,801.5117543935776
+"84   NaN
+Name: fold num, dtype: float64",grapeleaves_27.jpg,44232,1662.0,1445.7169407606125
+"85   NaN
+Name: fold num, dtype: float64",grapeleaves_28.jpg,68.5,0.0,546.1147857904434
+"86   NaN
+Name: fold num, dtype: float64",grapeleaves_29.jpg,215.5,100.0,1713.4570552110672
+"87   NaN
+Name: fold num, dtype: float64",grapeleaves_29.jpg,215.5,100.0,1713.4570552110672
+"88   NaN
+Name: fold num, dtype: float64",grapeleaves_30.jpg,117.0,0,892.4061968326569
+"89   NaN
+Name: fold num, dtype: float64",grapeleaves_41.jpg,60452,778.0,1586.9890189170837
+"90   NaN
+Name: fold num, dtype: float64",grapeleaves_42.jpg,42036,2016.0,1885.1210496425629
+"91   NaN
+Name: fold num, dtype: float64",grapeleaves_43.jpg,35435.5,0,998.2468165159225
+"92   NaN
+Name: fold num, dtype: float64",grapeleaves_44.jpg,274.0,84.0,2079.003299474716
+"93   NaN
+Name: fold num, dtype: float64",grapeleaves_45.jpg,57591,752.0,2065.204309940338
+"94   NaN
+Name: fold num, dtype: float64",grapeleaves_46.jpg,46008,403.0,1780.0499819517136
+"95   NaN
+Name: fold num, dtype: float64",grapeleaves_47.jpg,292.5,3.5,1873.3636902570724
+"96   NaN
+Name: fold num, dtype: float64",grapeleaves_48.jpg,36601.5,72.0,901.903670668602
+"97   NaN
+Name: fold num, dtype: float64",grapeleaves_49.jpg,50151,1498.0,1941.7484662532806
+"98   NaN
+Name: fold num, dtype: float64",grapeleaves_50.jpg,41184,606.0,1958.3687425851822
+"99   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"100   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"101   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"102   NaN
+Name: fold num, dtype: float64",sehat1.jpg,228.0,0,1623.5575604438782
+"103   NaN
+Name: fold num, dtype: float64",sehat1.jpg,228.0,0,1623.5575604438782
+"104   NaN
+Name: fold num, dtype: float64",grapeleaves_1.jpg,247.5,0.0,2289.6479610204697
+"105   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"106   NaN
+Name: fold num, dtype: float64",grapeleaves_3.jpg,29413.0,21.0,887.7199051380157
+"107   NaN
+Name: fold num, dtype: float64",grapeleaves_4.jpg,26201.0,484.0,875.7787802219391
+"108   NaN
+Name: fold num, dtype: float64",grapeleaves_5.jpg,129.5,5.0,1177.1585038900375
+"109   NaN
+Name: fold num, dtype: float64",grapeleaves_6.jpg,34453.0,277.0,1008.3717069625854
+"110   NaN
+Name: fold num, dtype: float64",grapeleaves_7.jpg,24150,435.0,1190.8641284704208
+"111   NaN
+Name: fold num, dtype: float64",grapeleaves_8.jpg,46384,1004.0,1735.3565499782562
+"112   NaN
+Name: fold num, dtype: float64",grapeleaves_9.jpg,38850,524.5,1164.1290663480759
+"113   NaN
+Name: fold num, dtype: float64",grapeleaves_10.jpg,28044,232.5,801.5117543935776
+"114   NaN
+Name: fold num, dtype: float64",grapeleaves_11.jpg,60452,778.0,1586.9890189170837
+"115   NaN
+Name: fold num, dtype: float64",grapeleaves_12.jpg,42036,2016.0,1885.1210496425629
+"116   NaN
+Name: fold num, dtype: float64",grapeleaves_13.jpg,35435.5,0,998.2468165159225
+"117   NaN
+Name: fold num, dtype: float64",grapeleaves_14.jpg,274.0,84.0,2079.003299474716
+"118   NaN
+Name: fold num, dtype: float64",grapeleaves_15.jpg,57591,752.0,2065.204309940338
+"119   NaN
+Name: fold num, dtype: float64",model.jpg,57596,728.5,2700.8926895856857
+"120   NaN
+Name: fold num, dtype: float64",model.jpg,57596,728.5,2700.8926895856857
+"121   NaN
+Name: fold num, dtype: float64",model.jpg,57596,728.5,2700.8926895856857
+"122   NaN
+Name: fold num, dtype: float64",grapeleaves_3.jpg,29413.0,21.0,887.7199051380157
+"123   NaN
+Name: fold num, dtype: float64",grapeleaves_3.jpg,29413.0,21.0,887.7199051380157
+"124   NaN
+Name: fold num, dtype: float64",grapeleaves_7.jpg,24150,435.0,1190.8641284704208
+"125   NaN
+Name: fold num, dtype: float64",grapeleaves_9.jpg,38850,524.5,1164.1290663480759
+"126   NaN
+Name: fold num, dtype: float64",grapeleaves_9.jpg,38850,524.5,1164.1290663480759
+"127   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"128   NaN
+Name: fold num, dtype: float64",grapeleaves_16.jpg,251.0,0,1871.8662164211273
+"129   NaN
+Name: fold num, dtype: float64",grapeleaves_17.jpg,225.0,0,1837.9250915050507
+"130   NaN
+Name: fold num, dtype: float64",grapeleaves_18.jpg,214.5,0,1792.5697530508041
+"131   NaN
+Name: fold num, dtype: float64",grapeleaves_19.jpg,34044.5,0,927.9625457525253
+"132   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"133   NaN
+Name: fold num, dtype: float64",grapeleaves_4.jpg,26201.0,484.0,875.7787802219391
+"134   NaN
+Name: fold num, dtype: float64",grapeleaves_10.jpg,28044,232.5,801.5117543935776
+"135   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"136   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
+"137   NaN
+Name: fold num, dtype: float64",grapeleaves_2.jpg,43036,1941.5,1347.6336804628372
